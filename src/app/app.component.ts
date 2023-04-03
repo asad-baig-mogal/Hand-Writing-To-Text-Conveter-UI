@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'handwriting-to-text-converter';
+  toggle=false;
+ 
+
 }
